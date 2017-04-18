@@ -45,7 +45,7 @@ public class Robot extends IterativeRobot {
 	 */
 	@Override
 	public void disabledInit() {
-
+ System.out.println("Desktop");
 	}
 
 	@Override
